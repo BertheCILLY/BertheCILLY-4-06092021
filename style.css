@@ -457,12 +457,13 @@ nav .caret {
 }
 
 .btn-d,
-.btn-d:hover,
-.btn-d:focus {
-    color: #FFF;
-    background: rgba(0, 0, 0, .3);
-}
+.btn-d:focus,
+.btn-d:hover {
+    color: rgb(223, 16, 188);
+    background: rgba(8, 8, 8, 0.3);
 
+}
+.btn-d
 button {
     outline: none!important;
 }
@@ -742,7 +743,9 @@ h4 {
     color: #FFFFFF!important;
     font-size: 20px;
 }
-
+.black{
+    color:#000!important;
+} 
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -765,6 +768,7 @@ h4 {
     font-weight: 900;
     text-decoration: underline!important;
 }
+
 
 .bgc-white {
     background-color: #FFFFFF;
