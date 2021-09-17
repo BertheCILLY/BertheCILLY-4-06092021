@@ -687,6 +687,7 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+   
 }
 
 .h1 {
@@ -748,11 +749,16 @@ h4 {
 } 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 200px;
+    margin: 0 auto;
+    margin-bottom: 0px;
 }
 
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
+		
+
 }
 
 .avatar {
